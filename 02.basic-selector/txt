@@ -1,0 +1,28 @@
+ 3 type of basic selector
+
+ By TagName
+ class
+ id
+
+// By TagName
+
+h1{
+   color:red;
+}
+
+
+//By class
+
+.header{
+    //css
+}
+
+// use in Html 
+
+<div class="header"></div>
+
+//Id selector
+
+#menu{
+    
+}
